@@ -1,0 +1,55 @@
+# 📋 Report Requirements – Himalaya Kött & Video
+
+This document summarizes the original requirements (kravställning) used to build each dashboard in the Power BI project.
+
+---
+
+## 1. 🛒 Sales Report (Säljrapport)
+
+- Visualize sales, in-price (inpris), and margins (SEK & %) at:
+  - Store level
+  - Department
+  - Product group
+  - Article level
+- Display top 5 / bottom 5 product groups and articles
+- Show monthly and YTD sales trends
+- Drill-down capability for product groups
+- Bonus: Group sales by week, month, and quarter
+
+---
+
+## 2. 🧑‍💼 HR Report (HR-rapport)
+
+- Show number of employees by:
+  - Gender (M/K/H)
+  - Age
+  - Employment type
+  - Salary level
+- Monthly worked hours
+- Trend over time for employee count
+- Pie chart: Employee distribution
+- Drill-down from employment category to individual
+- Analyze how salary and hours relate to employment duration
+
+---
+
+## 3. 📢 Campaign Report (Kampanjrapport)
+
+- Campaign timeline and products involved
+- Revenue from campaign-specific items
+- Top 5 / bottom 5 campaigns by performance
+- Discounted pricing analysis (loss vs. normal price)
+- Identify & justify the most successful campaign
+
+---
+
+## 4. 💰 Financial Report (Ekonomirapport)
+
+- Monthly / yearly / YTD income statement:
+  - Revenue (Intäkter)
+  - Direct costs
+  - Gross profit (TB1 in kr and TGI in %)
+  - Other expenses
+  - Operating profit (TB2)
+  - HR-related costs
+  - Net result (SEK and %)
